@@ -1,0 +1,11 @@
+# ignore all files
+**
+
+# exclusion
+!/bot/
+!/admin/
+!/migrations/
+
+!/alembic.ini
+!/poetry.lock
+!/pyproject.toml
